@@ -12,6 +12,6 @@
 	<classpathentry exported="true" kind="lib" path="/home/mrbarin/Documents/java_studies/DessignPatterns/guice-5.1.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="/home/mrbarin/Documents/java_studies/DessignPatterns/guava-31.0.1-jre.jar"/>
 	<classpathentry exported="true" kind="lib" path="/home/mrbarin/Documents/java_studies/DessignPatterns/commons-lang3-3.12.0.jar"/>
-	<classpathentry kind="lib" path="/home/mrbarin/Documents/java_studies/DessignPatterns/javatuples-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/mrbarin/Documents/java_studies/DessignPatterns/javatuples-1.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

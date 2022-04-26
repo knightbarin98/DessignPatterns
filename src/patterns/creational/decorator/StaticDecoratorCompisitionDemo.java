@@ -1,3 +1,4 @@
+
 package patterns.creational.decorator;
 
 import java.util.function.Supplier;
@@ -44,6 +45,7 @@ class CircleStaticDecorator implements ShapeStaticDecorator {
 	}
 
 }
+
 
 class SquareStaticDecorator implements ShapeStaticDecorator {
 	private float side;

@@ -30,7 +30,7 @@ class PersonBuilder<SELF extends PersonBuilder<SELF>>{
 	public SELF withName(String name) {
 		person.name = name;
 		
-		//valid option, nevetheless, but it will not fit well for the self class Builder
+		//valid option, nevetheless, it will not fit well for the self class Builder
 //		return (SELF)this;
 		 //the right option would be making and inheritance method the return itself 
 		//and applies for the parent class and the subclasses
